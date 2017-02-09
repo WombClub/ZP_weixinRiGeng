@@ -24,3 +24,9 @@
 ![08](/_image/title08.png)
 ![09](/_image/title09.png)
 ```
+
+## 引导二维码
+```
+![引导二维码](/_image/bottomQC.jpg)
+```
+
