@@ -7,8 +7,6 @@
 ![优术](/_image/nav_YouShu.png)
 ![理念](/_image/nav_LiNian.png)
 ![解惑](/_image/nav_JieHuo.png)
-
-![引导二维码](/_image/bottomQC.jpg)
 ```
 
 ## 导航图片
