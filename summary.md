@@ -6,4 +6,4 @@
     - [19 橙长节导师分享：2016年最触动我的一条认知！](201612/161219_mySpeechOfBeMyself.md)
     - [21 是什么可以带来源源不断的勇气？](201612/161221_whatCanBringASteadyStreamOfCourage.md)
     - [22 喂，我的大腿凭什么给你抱？](201612/161222_theCorrectPostureOfHugMe.md)
-    - [23 三字诀，让普通人也能拥有成就感](201612/161223_three CharacterOfAccomplishment.md)
+    - [23 三字诀，让普通人也能拥有成就感](201612/161223_three CharacterOfAccomplishment)
