@@ -22,7 +22,8 @@
 
 ![](./_image/cjg.jpg)
 
-（啥，这也有成就感？）
+> （啥，这也有成就感？）
+
 我们不要像皇帝的新衣中那些说假话的人一样，说说看，你有成就感么？我想，基本上你只是会处于蒙圈的状态吧，甚至会纳闷：什么，这也能有成就感么？
 
 的确，在这个实验中，是无法获得成就感的！
@@ -83,8 +84,11 @@
 ![05](/_image/title05.png)
 
 今天，跟我一起思考年度期待、制定年度目标的伙伴要提交全年目标了，如果这里有一个选择，你会选什么？
+> ### 投票
+> 问题：在挫败的当下，你要失败还是成就感？（单选）
+> - 我没有时间、我期盼完整、我还没有弄明白，所以我就先放放吧
+> - 干丫的，先做出来，然后一边优化一边等永澄老师点评
 
-<iframe allowfullscreen="" class="vote_iframe js_editor_vote_card" data-display-src="/cgi-bin/readtemplate?t=vote/vote-new_tmpl&amp;__biz=MzIzOTY0OTA3OA==&amp;supervoteid=460218084&amp;token=1079262838&amp;lang=zh_CN" data-display-style="height: 145px;" data-src="/mp/newappmsgvote?action=show&amp;__biz=MzIzOTY0OTA3OA==&amp;supervoteid=460218084#wechat_redirect" data-supervoteid="460218084" frameborder="0" scrolling="no" src="https://mp.weixin.qq.com/mp/newappmsgvote?action=show&amp;__biz=MzIzOTY0OTA3OA==&amp;supervoteid=460218084&amp;uin=MTc4OTM3ODkzOA%3D%3D&amp;key=af89d8d39c7c894fd19dd46d29bb2cb36452568c2a0d94d769bedd4920991f80b487885afdb5bd69e42d019920a276e6e1ff78866262863d9e89ec5bc7e630446f6c157680b2fe67c9f4b961fcc25bb0&amp;pass_ticket=fysuXv%252F0ybIb1MuR3AFkZTaTGUqx2r%252B38L79zFsHjsHPygNrVAMfy9TMsBn0L33D&amp;wxtoken=2106561524&amp;mid=2247483754&amp;idx=1" style="margin: 0px; padding: 0px; max-width: 100%; box-sizing: border-box !important; word-wrap: break-word !important; display: block; width: 604px; height: 246px; border: 0px; background-color: transparent;"></iframe>
 
 同时，问问自己：在未来，无论是学习知识、提升技能还是积累才干，无论是多巴胺分泌的多与少，当面对挫败的时候，自己到底是被恐惧干倒，还是大喊一声干丫的，然后带着满满的能量前行呢？
 
