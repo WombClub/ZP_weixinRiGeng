@@ -10,10 +10,7 @@
 ## 操作指南
 
 - 成员分工:[ZP_weixinRiGeng/task-allocation .md](https://github.com/runwithcc/ZP_weixinRiGeng/blob/master/task-allocation%20.md)
-- 工作流程：
-  - 文章备份流程
-  - 文章留言备份流程:
-  - 公众号表模板:拟定中
+- 工作流程：[ZP_weixinRiGeng/New workflow.md](https://github.com/runwithcc/ZP_weixinRiGeng/blob/master/New%20workflow.md)
 - 操作模板
   - 文章备份模板：[ZP_weixinRiGeng/articleTemp.md](https://github.com/runwithcc/ZP_weixinRiGeng/blob/master/articleTemp.md)
   - 文章留言备份模板:[ZP_weixinRiGeng/messageTemp.md](https://github.com/runwithcc/ZP_weixinRiGeng/blob/master/messageTemp.md)
