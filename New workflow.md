@@ -8,25 +8,7 @@
 
 2017年04月10日，项目发起人给出了关于项目截止时间的最新期待，即争取15天之内完成所有文章的备份工作。因此为了加快项目进度，项目组决定扩大项目团队，重新安排团队的工作分配。经过项目调整，现项目团队邀请加入了3位新成员加入，即 moonlight、kcalm、李牛牛三位伙伴。项目截止时间定为4月28日。
 
-## （二）主要任务描述
-
-### 1. 文章备份流程
-将永澄老师（YCmentor）公众号中的所有文章托管在github上。
-
-![文章备份](https://raw.githubusercontent.com/ruoxiaomu/IPIC/master/flowsheet/article-backups.png)
-
-
-### 2. 文章留言备份流程
-对永澄老师（YCmentor）公众号中所有文章的上墙精选留言进行托管。
-
-![留言备份](https://github.com/ruoxiaomu/IPIC/blob/master/flowsheet/message-backups%20.png)
-
-### 3. 公众号基本数据管理
-统计汇总永澄老师（YCmentor）公众号所有文章的基本信息数据，并登记在公众号登记.xlsx中
-
-
-## （三）协同方式流程
-## （四）项目成员角色分配
+## （二）项目成员角色分配
 
 ### 1. 项目发起人
 
@@ -66,12 +48,27 @@
 - 所属成员：许丽、 moonlight、kcalm、李牛牛、若晓沐
 - 工作职责：负责公众号文章及文章评论的备份和整理工作
 - 任务分工
+
   - 公众号文章备份
   - 文章留言备份
   - 公众号基本数据管理
 - 具体任务分配：详见
   
 
+## （三）主要任务描述
+
+### 1. 文章备份流程
+将永澄老师（YCmentor）公众号中的所有文章托管在github上。
+
+![文章备份](https://raw.githubusercontent.com/ruoxiaomu/IPIC/master/flowsheet/article-backups.png)
 
 
+### 2. 文章留言备份流程
+对永澄老师（YCmentor）公众号中所有文章的上墙精选留言进行托管。
 
+![留言备份](https://github.com/ruoxiaomu/IPIC/blob/master/flowsheet/message-backups%20.png)
+
+### 3. 公众号基本数据管理
+统计汇总永澄老师（YCmentor）公众号所有文章的基本信息数据，并登记在公众号登记.xlsx中
+
+## （四）协同方式流程
