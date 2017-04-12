@@ -33,9 +33,8 @@
   - 对整个项目管理提供指导性建议
 - github 工作分支
   - 有权限分支——develop 分支、master 分支
-  - 可 Pull （推送）分支 —— master 分支
-  - 可 merge（合并）分支 —— develop 分支
-
+  - 可 Pull （推送）分支 —— master 分支
+  - 可 merge（合并）分支 —— develop 分支
 
 
 ### 2. 项目管理者
@@ -55,10 +54,8 @@
 
   - 工作流——rxm 分支
   - 有权限分支——develop 分支、master 分支
-  - 可 Pull （推送）分支 —— develop 分支、master 分支
-  - 可 merge（合并）分支 —— rxm 分支、wcc分支、xl 分支、develop 分支
-
-  ​
+  - 可 Pull （推送）分支 —— develop 分支、master 分支
+  - 可 merge（合并）分支 —— rxm 分支、wcc分支、xl 分支、develop 分支
 
 ### 3. 内容生产者
 
@@ -74,10 +71,9 @@
 - github 工作分支
 
   - 工作流——wcc 分支
-  - 可 Pull （推送）分支 —— develop 分支
-  - 可 merge（合并）分支 —— develop 分支
+  - 可 Pull （推送）分支 —— develop 分支
+  - 可 merge（合并）分支 —— develop 分支
 
-  ​
 
 ### 4. 内容管理者
 
@@ -90,7 +86,8 @@
   - 定期与项目经理及项目发起人在微信群（把永澄老师装进Github里）进行进度沟通
 - github 工作分支
   - 工作流—— xl 分支
-  - 可 Pull （推送）分支 —— develop 分支
-  - 可 merge（合并）分支 —— develop 分支
+  - 可 Pull （推送）分支 —— develop 分支
+  - 可 merge（合并）分支 —— develop 分支
+
 
 
