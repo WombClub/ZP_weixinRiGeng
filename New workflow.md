@@ -13,6 +13,17 @@
 
 ![分支协同](https://raw.githubusercontent.com/ruoxiaomu/IPIC/master/flowsheet/github-workflow-2.png)
 
+### 1. 项目协同说明
+
+整个项目团队主要通过Github和项目微信群进行工作协同。
+
+- github-issues：用于发布项目通知
+- github-code：用于项目托管
+- github-pull request：用于任务统筹和成员见的内容同步
+- 项目微信群：用于团队成员间的及时沟通
+
+### 2. 项目协同流程
+
 - step1：登录github，在页面上方搜索栏搜索“runwithcc”。
 - step2：在搜索结果中，选中User，找到用户名为【runwithcc】的用户，并点击进入个人主页。
 - step3：在Repositories中找到名为 【ZP_weixinRiGeng】的仓库，并点击进入。
