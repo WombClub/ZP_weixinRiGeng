@@ -18,7 +18,7 @@
 - step3：在Repositories中找到名为 【ZP_weixinRiGeng】的仓库，并点击进入。
 - step4：找到页面右上方的Fork按钮，进行仓库派生。
 - step5：在派生的ZP_weixinRiGeng中，将Branch从master切换到由自己昵称命名的分支
-- step6：根据task-allocation .md的任务安排和[New workflow.md的操作指南推进任务
+- step6：根据[task-allocation .md](https://github.com/runwithcc/ZP_weixinRiGeng/blob/master/task-allocation%20.md)的任务安排和下文的任务操作流程推进任务
 - step7：完成任务后，点击New pull request
 - step8：选择pull request 分支。base分支为自己昵称命名的分支，compare分支为runwithcc。
 - step9：点击 create pull request 完成 pull request 创建。
@@ -63,12 +63,10 @@
 - 所属成员：许丽、 moonlight、kcalm、李牛牛、若晓沐
 - 工作职责：负责公众号文章及文章评论的备份和整理工作
 - 任务分工
-
-  - 公众号文章备份
+  - 公众号文章备份
   - 文章留言备份
   - 公众号基本数据管理
-- 具体任务分配：详见
-  
+  - 具体任务分配：详见
 
 ## （四）主要任务描述
 
@@ -83,7 +81,8 @@
 
 ![留言备份](https://github.com/ruoxiaomu/IPIC/blob/master/flowsheet/message-backups%20.png)
 
-### 3. 公众号基本数据管理
+### 3. 公众号基本数据管理流程
 统计汇总永澄老师（YCmentor）公众号所有文章的基本信息数据，并登记在公众号登记.xlsx中
+> 暂无流程图
 
 
