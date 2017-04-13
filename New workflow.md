@@ -8,7 +8,22 @@
 
 2017年04月10日，项目发起人给出了关于项目截止时间的最新期待，即争取15天之内完成所有文章的备份工作。因此为了加快项目进度，项目组决定扩大项目团队，重新安排团队的工作分配。经过项目调整，现项目团队邀请加入了3位新成员加入，即 moonlight、kcalm、李牛牛三位伙伴。项目截止时间定为4月28日。
 
-## （二）项目成员角色分配
+
+## （二）协同方式流程
+
+![分支协同](https://raw.githubusercontent.com/ruoxiaomu/IPIC/master/flowsheet/github-workflow-2.png)
+
+- step1：登录github，在页面上方搜索栏搜索“runwithcc”。
+- step2：在搜索结果中，选中User，找到用户名为【runwithcc】的用户，并点击进入个人主页。
+- step3：在Repositories中找到名为 【ZP_weixinRiGeng】的仓库，并点击进入。
+- step4：找到页面右上方的Fork按钮，进行仓库派生。
+- step5：在派生的ZP_weixinRiGeng中，将Branch从master切换到由自己昵称命名的分支
+- step6：根据task-allocation .md的任务安排和[New workflow.md的操作指南推进任务
+- step7：完成任务后，点击New pull request
+- step8：选择pull request 分支。base分支为自己昵称命名的分支，compare分支为runwithcc。
+- step9：点击 create pull request 完成 pull request 创建。
+
+## （三）项目成员角色分配
 
 ### 1. 项目发起人
 
@@ -55,7 +70,7 @@
 - 具体任务分配：详见
   
 
-## （三）主要任务描述
+## （四）主要任务描述
 
 ### 1. 文章备份流程
 将永澄老师（YCmentor）公众号中的所有文章托管在github上。
@@ -71,17 +86,4 @@
 ### 3. 公众号基本数据管理
 统计汇总永澄老师（YCmentor）公众号所有文章的基本信息数据，并登记在公众号登记.xlsx中
 
-## （四）协同方式流程
-
-![分支协同](https://raw.githubusercontent.com/ruoxiaomu/IPIC/master/flowsheet/github-workflow-2.png)
-
-- step1：登录github，在页面上方搜索栏搜索“runwithcc”。
-- step2：在搜索结果中，选中User，找到用户名为【runwithcc】的用户，并点击进入个人主页。
-- step3：在Repositories中找到名为 【ZP_weixinRiGeng】的仓库，并点击进入。
-- step4：找到页面右上方的Fork按钮，进行仓库派生。
-- step5：在派生的ZP_weixinRiGeng中，将Branch从master切换到由自己昵称命名的分支
-- step6：根据task-allocation .md的任务安排和[New workflow.md的操作指南推进任务
-- step7：完成任务后，点击New pull request
-- step8：选择pull request 分支。base分支为自己昵称命名的分支，compare分支为runwithcc。
-- step9：点击 create pull request 完成 pull request 创建。
 
