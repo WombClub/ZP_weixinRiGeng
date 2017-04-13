@@ -72,3 +72,16 @@
 统计汇总永澄老师（YCmentor）公众号所有文章的基本信息数据，并登记在公众号登记.xlsx中
 
 ## （四）协同方式流程
+
+![分支协同](https://raw.githubusercontent.com/ruoxiaomu/IPIC/master/flowsheet/github-workflow-2.png)
+
+- step1：登录github，在页面上方搜索栏搜索“runwithcc”。
+- step2：在搜索结果中，选中User，找到用户名为【runwithcc】的用户，并点击进入个人主页。
+- step3：在Repositories中找到名为 【ZP_weixinRiGeng】的仓库，并点击进入。
+- step4：找到页面右上方的Fork按钮，进行仓库派生。
+- step5：在派生的ZP_weixinRiGeng中，将Branch从master切换到由自己昵称命名的分支
+- step6：根据task-allocation .md的任务安排和[New workflow.md的操作指南推进任务
+- step7：完成任务后，点击New pull request
+- step8：选择pull request 分支。base分支为自己昵称命名的分支，compare分支为runwithcc。
+- step9：点击 create pull request 完成 pull request 创建。
+
